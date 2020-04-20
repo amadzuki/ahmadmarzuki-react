@@ -6,7 +6,7 @@ function HeroHeading() {
       style={{
         fontSize: "65px",
         color: "white",
-        margin: "10px",
+        margin: "auto 0 10px 0",
       }}
     >
       Hello, I'm Marzuki
