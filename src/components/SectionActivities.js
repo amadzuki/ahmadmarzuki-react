@@ -11,7 +11,7 @@ const activities = [
   "Playing guitar",
   "Singing",
   "Recording",
-  "Cleaning cat's litterbox",
+  "Cleaning litterbox",
   "Feeding the cats",
   "Gaming",
   "Watching anime",
